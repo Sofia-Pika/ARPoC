@@ -1,4 +1,4 @@
-# ARPoC
+# ARPoC - Learning By Doing
 
 ## Repository for the Services et technologies multimedia 2019 course.
 ### Sofia and Xoeseko's AR proof of concept
@@ -10,8 +10,8 @@ Our aim is to demonstrate that it would be possible to learn skills through augm
 - [x] Rigging a character to follow the motion capture animation
 - [x] Importing the animation into unity in order to develop the AR or VR application.
 - [x] Having a working prototype
-- [ ] Testing within our close circles what people think of the concept
-- [ ] Making a presentative video for the project
+- [x] Testing within our close circles what people think of the concept
+- [x] Making a presentative video for the project
 
 #### Sources:
 We aim as much as possible to make use of open access software and assets.
